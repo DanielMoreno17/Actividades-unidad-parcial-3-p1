@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="flor" size="1.000000 0.846405" />
+    <ImageTarget name="cubo" size="1.000000 0.957198" />
+    <ImageTarget name="estrella" size="1.000000 0.937908" />
+    <ImageTarget name="pikachu" size="1.000000 0.983673" />
+  </Tracking>
+</QCARConfig>
